@@ -1,0 +1,17 @@
+Sex: Género del cangrejo: masculino, femenino o indeterminado. (M, F, I)
+
+Length: Longitud del cangrejo (en pies; 1 pie = 30.48 cm) (5-10)
+
+Diameter: Diámetro del cangrejo (en pies; 1 pie = 30.48 cm) (5-9)
+
+Height: Altura del cangrejo (en pies; 1 pie = 30.48 cm) (3-4)
+
+Weight: Peso del cangrejo (en onzas; 1 libra = 16 onzas) (50-100)
+
+Shucked Weight: Peso sin el caparazón (en onzas; 1 libra = 16 onzas) (20-50)
+
+Viscera Weight: Peso que envuelve los órganos abdominales dentro del cuerpo (en onzas; 1 libra = 16 onzas) (5-15)
+
+Shell Weight: Peso del caparazón (en onzas; 1 libra = 16 onzas) (20-40)
+
+Age: Edad del cangrejo (en meses) (2-50)
